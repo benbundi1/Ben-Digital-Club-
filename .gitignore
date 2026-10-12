@@ -1,0 +1,29 @@
+# Node / Next.js
+node_modules
+.next
+out
+dist
+coverage
+.vite
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+
+# Build outputs
+*.tsbuildinfo
+
+# Local data
+*.pem

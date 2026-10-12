@@ -1,0 +1,12 @@
+{
+  "name": "@bendigitalclub/design-system",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "lint": "echo 'No lint config yet'",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
