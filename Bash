@@ -1,0 +1,2 @@
+# From repo root, create the directory structure
+mkdir -p apps/web/app packages/design-system .github/workflows
